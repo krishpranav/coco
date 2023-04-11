@@ -1,4 +1,4 @@
-module Plezi
+module Coco
     module Base
        module HasCache
           def self.extended(base)
